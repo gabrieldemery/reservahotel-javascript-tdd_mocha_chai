@@ -1,0 +1,13 @@
+{
+  "name": "reservahotel-javascript-tdd_mocha_chai",
+  "version": "1.0.0",
+  "description": "Reserva de Hotel em JavaScript com TDD usando Mocha e Chai",
+  "scripts": {
+    "test": "mocha test/**/*spec.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^4.1.0"
+  }
+}
